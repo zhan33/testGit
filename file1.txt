@@ -5,4 +5,5 @@ pwd命令用于显示当前目录。在我的Mac上，这个仓库位于/Users/m
 第二步，通过git init命令把这个目录变成Git可以管理的仓库：
 
 $ git init
+hello
 Initialized empty Git repository in /Users/michael/learngit/.git/
