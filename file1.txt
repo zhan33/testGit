@@ -1,4 +1,5 @@
 git init
 hello
 you huang
+Hello world-1
 Initialized empty Git repository in /Users/michael/learngit/.git/
