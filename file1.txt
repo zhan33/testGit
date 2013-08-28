@@ -6,4 +6,5 @@ pwd命令用于显示当前目录。在我的Mac上，这个仓库位于/Users/m
 
 $ git init
 hello
+you huang
 Initialized empty Git repository in /Users/michael/learngit/.git/
