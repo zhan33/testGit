@@ -6,5 +6,6 @@ Hello world-2
 Hello world-3
 Hello world-4
 Hello world-5 master and new branch
-branch dev2
+branch dev2 
+bar
 Initialized empty Git repository in /Users/michael/learngit/.git/
